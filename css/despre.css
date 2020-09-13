@@ -99,7 +99,7 @@ body {
 /* Backgrrrround Images */
  
 .slide:first-child {
-  background: url('../img/slide1.jpg') no-repeat
+  background: url('https://images.pexels.com/photos/391995/pexels-photo-391995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') no-repeat
     center top/cover;
 }
 .slide:nth-child(2) {
