@@ -231,6 +231,9 @@ footer{
   color:#ddd;
 }
 
+hr {
+  width: 10%;
+}
 
 
 @media(max-width:568px){
