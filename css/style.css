@@ -60,9 +60,12 @@ header li{
 header #branding{
   float:left;
 }
+header #branding-logo{
+  float:left;
+}
 
 header #branding h1{
-  margin:0;
+  margin-top: 0px;
 }
 
 header nav{
